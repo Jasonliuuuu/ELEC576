@@ -13,3 +13,5 @@ celsius = fahrenheit_to_celsius(fahrenheit)
 
 # Output the Celsius temperature
 print(f"{fahrenheit} Fahrenheit is equal to {celsius:.2f} Celsius")
+
+##Updated 09/10/2024
