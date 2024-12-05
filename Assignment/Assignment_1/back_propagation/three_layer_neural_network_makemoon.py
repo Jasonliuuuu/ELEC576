@@ -1,3 +1,4 @@
+#Data set = make_moon
 __author__ = 'tan_nguyen'
 import numpy as np
 from sklearn import datasets, linear_model
